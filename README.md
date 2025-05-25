@@ -6,7 +6,7 @@ Analisís estadístico de parámetros de operación en columna de destilación
 
 ## 🚀 Visión General del Proyecto
 
-Este proyecto fue realizado como parte del Módulo Visualización y análisis de datos. Se enfoca en el análisis estadístico y la visualización de los parámetros de operación clave en una **columna de destilación industrial**. Utilizando datos simulados que replican condiciones reales, el objetivo es comprender el comportamiento dinámico del proceso, identificar tendencias, detectar anomalías.
+Este proyecto fue realizado como proyecto del Curso Visualización y análisis de datos. Se enfoca en el análisis estadístico y la visualización de los parámetros de operación clave en una **columna de destilación industrial**. Utilizando datos simulados que replican condiciones reales, el objetivo es comprender el comportamiento dinámico del proceso, identificar tendencias, detectar anomalías.
 
 ---
 
